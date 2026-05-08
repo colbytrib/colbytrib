@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loltrib
+- 👋 Hi, I’m @colbytrib
 - 👀 I’m interested in building 3d models for games and projects.
 - 🌱 I’m currently learning how to code C#
 - 💞️ I’m looking to collaborate on ...
